@@ -15,3 +15,7 @@ The Cliff Walking environment is a gridworld (4x12) where an agent starts at the
 
 - **SARSA (State-Action-Reward-State-Action)**: An on-policy algorithm that updates the Q-values using the action taken by the policy.
 - **Q-learning**: An off-policy algorithm that updates the Q-values using the maximum action value from the next state.
+
+## Documentation
+
+For more information about the Cliff Walking environment, please visit the [official documentation](https://gymnasium.farama.org/environments/toy_text/cliff_walking/).
